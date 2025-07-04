@@ -362,4 +362,13 @@ Through this analysis, it became clear that regional focus, customer segmentatio
 
 This project not only demonstrates my ability to apply SQL in a real-world business context, but also shows how data can guide strategic decisions for e-commerce or retail platforms. Going forward, these insights could serve as a strong foundation for advanced dashboarding (Power BI, Excel), reporting automation, or further customer lifetime value (CLV) and return rate analysis
 
+## 👨‍💻 About Me
+OLUDHINWA BIBIRE FIRSTLADY
 
+🎓 B.Ed in Political science and M.A in International Relations | 📊 Data Analyst | |Customer Services Support|🎶 Worship Singer
+
+I’m passionate about simplifying data into impactful visuals and helping businesses make better decisions and am also victual assitant specific on CUSTOMER SERVICES and Admainistrative Support
+This project is a reflection of my journey in Excel-based analysis and business intelligence reporting.
+
+## 📫 Contact
+Email: oyinoluwaajee@gmail.com Phone: +234 7068613742 LinkedIn: https://www.linkedin.com/in/oludehinwa-bibire-a985a4209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
