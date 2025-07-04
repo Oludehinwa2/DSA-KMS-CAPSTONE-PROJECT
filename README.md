@@ -1,5 +1,7 @@
                   # DSA-KMS-CAPSTONE-PROJEC
+		  
          # 🏢 KMS Retail Business Analysis – SQL Case Study
+	 
 ## 👩🏽‍💻 Project Title:
 KMS Mega Stores Performance & Customer Insights (2009–2012)
 Tools Used: SQL Server, Excel (for result presentation & dashboard)
