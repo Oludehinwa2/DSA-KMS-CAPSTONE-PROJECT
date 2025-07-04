@@ -311,6 +311,7 @@ group by Order_Priority,
 Order by Avg_Ship_Days desc,
          Ship_Mode,
 		 Order_Priority
+   
 
 
 
