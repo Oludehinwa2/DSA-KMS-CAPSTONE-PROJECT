@@ -68,6 +68,14 @@ As a Junior Data Analyst, I conducted extensive SQL-based analysis across two ta
  
 	•	Data cleanup using LTRIM(), RTRIM() for status fields
 
+  ## FILE
+  ![Screenshot (18)](https://github.com/user-attachments/assets/24d9638f-3a0c-47a7-9da0-7893af14b142
+
+![Screenshot (19)](https://github.com/user-attachments/assets/9abdcc23-38ac-4b4c-b25c-99ca3d1129ad)
+
+![Screenshot (20)](https://github.com/user-attachments/assets/01ee035b-c5f7-4ade-9e78-d6c742663903)
+
+
 # Queries
 
 [Uploading   SELECT name FROM sys.databases;
