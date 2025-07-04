@@ -5,6 +5,7 @@
 ## 👩🏽‍💻 Project Title:
 KMS Mega Stores Performance & Customer Insights (2009–2012)
 Tools Used: SQL Server, Excel (for result presentation & dashboard)
+
 ## 📘 Overview
 This project analyzes four years of transactional data for KMS Mega Stores to uncover insights into product performance, customer behavior, shipping efficiency, and regional sales patterns. It forms part of a Business Intelligence Capstone using SQL for deep querying and business reasoning.
 
